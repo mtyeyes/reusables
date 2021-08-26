@@ -1,0 +1,1 @@
+Collection of everything reusble: hooks, configs, util functions and so on.
