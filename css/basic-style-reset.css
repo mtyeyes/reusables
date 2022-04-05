@@ -1,0 +1,30 @@
+input {
+  all: unset;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+button {
+  all: unset;
+  cursor: pointer;
+  display: block;
+}
+
+*,
+*:focus,
+*:hover {
+  outline: none;
+}

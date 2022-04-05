@@ -1,1 +1,1 @@
-Collection of everything reusble: hooks, configs, util functions and so on.
+Collection of everything reusable: hooks, configs, util functions and so on.
